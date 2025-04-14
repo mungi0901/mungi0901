@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=300&color=gradient&text=Hello%20World!&fontColor=00FF00&fontSize=70&animation=blinking&rotate=30)
-### I am Student, Department of Computer Science, Yeungnam University.
-#### I am currently learning C++.
+### I am student, department of computer science, Yeungnam University.
+### I was returned to university this year and forgot almost everyting I learned, so I am looking for help with Coding.😊
+### I am currently learning C++.
 #### My Email is "mungi00000@gmail.com"
-😊
+
 
 
 <!--
