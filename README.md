@@ -1,5 +1,7 @@
 ## Hi there 👋
-### Student, Department of Computer Science, Yeungnam University.
+### I am Student, Department of Computer Science, Yeungnam University.
+#### My Email is "mungi00000@naver.com"
+
 <!--
 **mungi0901/mungi0901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
