@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+# Student, Department of Computer Science, Yeungnam University.
 <!--
 **mungi0901/mungi0901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
