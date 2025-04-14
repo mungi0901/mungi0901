@@ -1,6 +1,7 @@
 ## Hi there 👋
 ## https://capsule-render.vercel.app/api?type=transparent&height=300&color=gradient&text=Hello%20World!&fontColor=00FF00&fontSize=70&animation=blinking&rotate=30
 type=transparent&height=300&color=gradient&text=Hello%20World!&fontColor=00FF00&fontSize=70&animation=blinking&rotate=30
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 ### I am Student, Department of Computer Science, Yeungnam University.
 #### My Email is "mungi00000@naver.com"
 
