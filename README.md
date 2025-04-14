@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=300&color=gradient&text=Hello%20World!&fontColor=00FF00&fontSize=70&animation=blinking&rotate=30)
 ### I am Student, Department of Computer Science, Yeungnam University.
-#### My Email is "mungi00000@naver.com"
+#### I am currently learning C++.
+#### My Email is "mungi00000@gmail.com"
+😊
+
 
 <!--
 **mungi0901/mungi0901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
