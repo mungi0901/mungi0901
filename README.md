@@ -19,7 +19,10 @@ I am student, department of computer science, Yeungnam University. I used to dou
 </p>
 
 ## 📊 Performance Metrics
-![MunGi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mungi0901&show_icons=true&theme=tokyonight)
+
+![MunGi's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=mungi0901&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mungi0901&layout=compact&theme=tokyonight)
 
 ## 💬 Let's Connect
 - 📧 **Email:** mungi00000@gmail.com
