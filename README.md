@@ -23,7 +23,7 @@ I am student, department of computer science, Yeungnam University. I used to dou
 
 ## 💬 Let's Connect
 - 📧 **Email:** mungi00000@gmail.com
-- 🏋️ **Interests:** Bodybuilding, Powerlifting, and Clean Code.
+- 🏋️ **Interests:** Bodybuilding, Powerlifting, Badminton and Clean Code.
 
 ---
 *"The last three or four reps is what makes the muscle grow. This area of pain divides a champion from someone who is not."* **I apply this same intensity to every line of code.**
