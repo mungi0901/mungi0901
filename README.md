@@ -22,9 +22,6 @@ I am student, department of computer science, Yeungnam University. I used to dou
 
 ![MunGi's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=mungi0901&show_icons=true&theme=tokyonight)
 
-## 📊 GitHub Stats
-![MunGi's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=mungi0901&theme=tokyonight)
-
 ## 💬 Let's Connect
 - 📧 **Email:** mungi00000@gmail.com
 - 🏋️ **Interests:** Bodybuilding, Powerlifting, Badminton and Clean Code.
